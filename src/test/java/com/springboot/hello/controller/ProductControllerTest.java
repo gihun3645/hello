@@ -1,6 +1,5 @@
 package com.springboot.hello.controller;
 
-import com.springboot.hello.controller.ProductController;
 import com.springboot.hello.dto.ProductResponseDto;
 import com.springboot.hello.service.ProductServiceImpl;
 import org.junit.jupiter.api.DisplayName;
